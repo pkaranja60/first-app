@@ -5,6 +5,8 @@ const config: CapacitorConfig = {
   appName: 'first-app',
   webDir: 'www',
   bundledWebRuntime: false
+  CAPACITOR_ANDROID_STUDIO_PATH="/snap/bin/android-studio"
+
 };
 
 export default config;
